@@ -1,0 +1,17 @@
+C:\Users\note\Documents\ConsumoGerenciador\obj\Debug\net8.0\ConsumoGerenciador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\note\Documents\ConsumoGerenciador\obj\Debug\net8.0\ConsumoGerenciador.AssemblyInfoInputs.cache
+C:\Users\note\Documents\ConsumoGerenciador\obj\Debug\net8.0\ConsumoGerenciador.AssemblyInfo.cs
+C:\Users\note\Documents\ConsumoGerenciador\obj\Debug\net8.0\ConsumoGerenciador.csproj.CoreCompileInputs.cache
+C:\Users\note\Documents\ConsumoGerenciador\bin\Debug\net8.0\ConsumoGerenciador.exe
+C:\Users\note\Documents\ConsumoGerenciador\bin\Debug\net8.0\ConsumoGerenciador.deps.json
+C:\Users\note\Documents\ConsumoGerenciador\bin\Debug\net8.0\ConsumoGerenciador.runtimeconfig.json
+C:\Users\note\Documents\ConsumoGerenciador\bin\Debug\net8.0\ConsumoGerenciador.dll
+C:\Users\note\Documents\ConsumoGerenciador\bin\Debug\net8.0\ConsumoGerenciador.pdb
+C:\Users\note\Documents\ConsumoGerenciador\obj\Debug\net8.0\ConsumoGerenciador.dll
+C:\Users\note\Documents\ConsumoGerenciador\obj\Debug\net8.0\refint\ConsumoGerenciador.dll
+C:\Users\note\Documents\ConsumoGerenciador\obj\Debug\net8.0\ConsumoGerenciador.pdb
+C:\Users\note\Documents\ConsumoGerenciador\obj\Debug\net8.0\ConsumoGerenciador.genruntimeconfig.cache
+C:\Users\note\Documents\ConsumoGerenciador\obj\Debug\net8.0\ref\ConsumoGerenciador.dll
+C:\Users\note\Documents\ConsumoGerenciador\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\note\Documents\ConsumoGerenciador\obj\Debug\net8.0\ConsumoGerenciador.csproj.AssemblyReference.cache
+C:\Users\note\Documents\ConsumoGerenciador\obj\Debug\net8.0\ConsumoGerenciador.csproj.CopyComplete
