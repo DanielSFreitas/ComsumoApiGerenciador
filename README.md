@@ -1,5 +1,5 @@
 # Consumo da API Gerenciador de Tarefas
-Este projeto demonstra como consumir a API Gerenciador de Tarefas, obtendo detalhes sobre tarefas com base em seus IDs. O projeto é escrito em C# e utiliza a biblioteca HttpClient para realizar solicitações HTTP.
+Este projeto demonstra como consumir a API Gerenciador de Tarefas(https://github.com/DanielSFreitas/Gerenciador-de-Tarefas), obtendo detalhes sobre tarefas com base em seus IDs. O projeto é escrito em C# e utiliza a biblioteca HttpClient para realizar solicitações HTTP.
 
 # Estrutura do Projeto
 O projeto é organizado em namespaces para melhor modularidade e clareza:
